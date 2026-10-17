@@ -2,7 +2,7 @@
 
 ### Repos
 
-**[superlandfix](https://github.com/ddyfad/superlandfix)** - unified landfix with more features
+~~**[superlandfix](https://github.com/ddyfad/superlandfix)** - unified landfix with more features~~
 
 ### Contact
 
