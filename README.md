@@ -2,9 +2,8 @@
 
 ### Repos
 
-~~**[superlandfix](https://github.com/ddyfad/superlandfix)** - unified landfix with more features~~
+**[bhoptools](https://github.com/ddyfad/bhoptools)** - css bhop all in one executable containing optimizations, fixes and more
 
 ### Contact
 
-Mail: dxd9876@pm.me  
 Discord: faskfjppois
